@@ -1,0 +1,51 @@
+Accounting|Economics, Accounting, and Management|7
+Africana Studies|Africana Studies|1
+Asian Studies|Modern Languages, Literatures and Linguistics|16
+Anthropology|Sociology, Anthropology, Social Work|26
+Art|Visual and Performing Arts|27
+Art History|Visual and Performing Arts|27
+Biblical Languages|Classics|4
+Biology|Biology|2
+Chemistry|Chemistry|3
+Chinese|Modern Languages, Literatures and Linguistics|16
+Classical Studies|Classics|4
+Classics|Classics|4
+Communication Studies|Communication Studies|5
+Computer Science|Computer Science|6
+Dance|Visual and Performing Arts|27
+Data Science|Computer Science|6
+Economics|Economics, Accounting, and Management|7
+Education|Education|8
+English|English|9
+Environmental Studies|Environmental Studies|10
+French|Modern Languages, Literatures and Linguistics|16
+German|Modern Languages, Literatures and Linguistics|16
+Health and Fitness Promotion|Health and Physical Education|11
+History|History|12
+International Business|Economics, Accounting, and Management|7
+International Studies|International Studies|13
+Journalism|Communication Studies|5
+Linguistics|Modern Languages, Literatures and Linguistics|16
+Management|Economics, Accounting, and Management|7
+Mathematics|Mathematics|15
+Mathematics/Statistics|Mathematics|15
+Museum Studies|Library|14
+Music|Music|17
+Neuroscience|Biology|2
+Nordic Studies|Modern Languages, Literatures and Linguistics|16
+Nursing|Nursing|18
+Paideia|Paideia|19
+Philosophy|Philosophy|20
+Physical Education|Health and Physical Education|11
+Physics|Physics|21
+Political Science|Political Science|22
+Psychology|Psychology|23
+Religion|Religion|24
+Russian Studies|Modern Languages, Literatures and Linguistics|16
+Social Welfare|Sociology, Anthropology, Social Work|26
+Social Work|Sociology, Anthropology, Social Work|26
+Sociology|Sociology, Anthropology, Social Work|26
+Spanish|Modern Languages, Literatures and Linguistics|16
+Theatre|Visual and Performing Arts|27
+Women and Gender Studies|Women and Gender Studies|28
+N/A|N/A|29
